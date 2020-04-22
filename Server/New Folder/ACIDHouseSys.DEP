@@ -1,0 +1,23 @@
+[Version]
+Version=1.0.0.33
+
+[ACIDHouseSys.exe <0009>]
+Dest=$(AppPath)
+Date=5/14/2005
+Time=09:39
+Version=1.0.0.33
+CABFilename=ACIDHouseSys.CAB
+CABINFFile=ACIDHouseSys.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=msado15.dll
+Uses8=ccrpTmr6.dll
+Uses9=absBtn.ocx
+Uses10=mscomctl.ocx
+Uses11=LaVolpeButtons.ocx
+Uses12=MSWINSCK.OCX
+Uses13=HookMenu.ocx
