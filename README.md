@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/jaysonragasa/ACIDHouseInternetCafe/master/2020-04-22_0803.png)
+![](https://raw.githubusercontent.com/jaysonragasa/ACIDHouseInternetCafe/master/2020-04-22_0813.png)
 # ACID House Internet Cafe
 An internet cafe application wrote in Visual Basic 6.
 
